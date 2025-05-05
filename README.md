@@ -136,7 +136,7 @@
   </div>
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_icon.svg/1024px-Leaf_icon.svg.png" class="leaf" alt="Leaf">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_icon.svg/1024px-Leaf_icon.svg.png](https://images.app.goo.gl/HrSJA)" class="leaf" alt="Leaf">
 
 <script>
   const display = document.getElementById('display');
